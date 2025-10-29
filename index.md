@@ -11,3 +11,9 @@
 $ python -v venv venv
 $ .\venv\Scripts\activate.bat
 ```
+
+### Task List
+
+- [ ] Actually Working on Real World Project
+- [ ] Make a friends
+- [ ] Be Rich 🤑
